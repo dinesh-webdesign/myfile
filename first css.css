@@ -1,0 +1,43 @@
+body{
+    background: url(download.jpg);
+    font-variant:small-caps;
+}
+nav{
+    text-align: center;
+    background-color: #d8f7b1;
+   
+    font-family:'Times New Roman', Times, serif;
+}
+ul{
+    list-style-type: square;
+}
+h2{
+    color:greenyellow;
+    background-color:grey;
+    text-decoration: dashed;
+    font-size:25px;
+    font-family: serif;
+}
+h1{
+    color:lightcoral;
+    text-align:center;
+
+    background-color: aquamarine;
+}
+
+p{
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif, serif;
+    text-align:justify;
+}
+footer{
+    background-color: #d8f7b1;
+}
+table{
+    background-color: rgb(252, 232, 216);
+}
+
+div{
+    background-color: aquamarine;
+}
+
